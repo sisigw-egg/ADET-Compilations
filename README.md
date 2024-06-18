@@ -3,7 +3,7 @@
 Here are the links with the actual deployment of the code. 
 
 Infinity free hosting:
-to-do-app.000.pe
+[to-do-app.000.pe](http://to-do-app.000.pe/index.html)
 
 Github repository for landing page:
 https://sisigw-egg.github.io/ADET-Compilations/
